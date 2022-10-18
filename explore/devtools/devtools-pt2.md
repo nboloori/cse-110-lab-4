@@ -1,0 +1,2 @@
+1. The inputs were being read as strings making the addition operator work as concatenation instead of arithmetic addition.
+2. Casted the strings to integers when they were read. For specifics see fix.png.
